@@ -22,13 +22,4 @@
   <li><strong>JavaScript</strong> – Theme switching logic</li>
 </ul>
 
-<h2>📸 Preview</h2>
-<p align="center">
-  <img src="screenshot.png" alt="App Preview" width="600" style="border-radius:10px;box-shadow:0 0 10px rgba(0,0,0,0.2);">
-</p>
-
-
-<p align="center">
-  Made with ❤️ by <a href="https://github.com/yourusername">RITIK</a>
-</p>
 
