@@ -27,22 +27,8 @@
   <img src="screenshot.png" alt="App Preview" width="600" style="border-radius:10px;box-shadow:0 0 10px rgba(0,0,0,0.2);">
 </p>
 
-<h2>📦 Installation</h2>
-<pre>
-1. Clone this repository
-   <code>git clone https://github.com/yourusername/reponame.git</code>
-2. Open <code>index.html</code> in your browser
-</pre>
-
-<h2>🤝 Contributing</h2>
-<p>Feel free to fork this repo and submit pull requests for new features or improvements.</p>
-
-<h2>📄 License</h2>
-<p>This project is licensed under the <strong>MIT License</strong>.</p>
-
-<hr>
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/yourusername">Your Name</a>
+  Made with ❤️ by <a href="https://github.com/yourusername">RITIK</a>
 </p>
 
