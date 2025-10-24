@@ -20,6 +20,7 @@
   <li><strong>HTML5</strong> – Structure of the web app</li>
   <li><strong>CSS3</strong> – Styling and theme design</li>
   <li><strong>JavaScript</strong> – Theme switching logic</li>
+  <li><strong>bootstraps</strong> – for responsive</li>
 </ul>
 
 
